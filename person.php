@@ -17,7 +17,7 @@ $nikola=new person;
     $nikola->hair_color='black';
 
 
-    echo $nikola->weight.'<br>'.$nikola->age.'<br>'.$nikola->height.'<br>'.$nikola->hair_color.'<br>'.$nikola->eye_color.'<br>';
+    echo 'Weight:'.$nikola->weight.'<br>'.'Age:'.$nikola->age.'<br>'.'Height:'.$nikola->height.'<br>'.'Hair color:'.$nikola->hair_color.'<br>'.'Eye color:'.$nikola->eye_color.'<br>';
 
 
 
